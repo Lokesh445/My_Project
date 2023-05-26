@@ -1,0 +1,186 @@
+/* Header styles */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2e2c2d;
+  color: #fff;
+  padding: 3px;
+}
+
+.logo {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+
+nav ul {
+  display: flex;
+  list-style: none;
+
+}
+
+nav li {
+  margin-left: 1rem;
+  padding: 20px;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* Banner styles */
+#banner {
+  background-image: url("https://c1.wallpaperflare.com/preview/79/806/473/book-business-drawing-education.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
+
+#banner h2 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+#banner p {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+/* About section styles */
+#about {
+  justify-items: center;
+  padding: 2rem;
+}
+
+#about h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+#about p {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.dashcard {
+  margin-left: 200px;
+  padding: 20px;
+  height: 200px;
+  width: 400px;
+}
+
+.dashcard1 {
+  padding: 20px;
+  height: 200px;
+  width: 400px;
+}
+
+/* Programs section styles */
+#programs {
+  padding: 2rem;
+}
+
+#programs h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+#programs ul {
+  list-style: none;
+  margin-bottom: 1rem;
+}
+
+#programs li {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+
+}
+
+
+
+/* Admissions section styles */
+#admissions {
+  padding: 2rem;
+
+}
+
+#admissions h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+#admissions p {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.card-title:hover {
+  color: blue;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+/* Contact section styles */
+#contact {
+  padding: 2rem;
+}
+
+#contact h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+
+.dash-submit {
+  background-color: #333;
+  color: #fff;
+  padding: 0.5rem;
+  border: none;
+  border-radius: 0.3rem;
+  cursor: pointer;
+}
+
+.dash-submit:hover {
+  background-color: #555;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+#name,
+#email {
+  width: 100%;
+  height: 40px;
+}
+
+#message {
+  width: 100%;
+  height: 80px;
+}
+
+/* Responsive styles */
+@media only screen and (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav li {
+    margin-left: 0;
+    margin-bottom: 1rem;
+  }
+}

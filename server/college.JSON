@@ -1,0 +1,135 @@
+[
+    {
+      "college_name":"Amity School Of Engineering & Technology (Noida)",
+      "Degree":["B.E","M.E"],
+      "Eng_dep":["Aeronautical Engineering","Civil Engineering","Computer Science Engineering","Electronics & Communication Engineering","Mechanical Engineering","Electronics Engineering"]
+   
+    },
+    {
+      "college_name":"Army Institute Of Technology (Pune)"
+    },
+    {
+      "college_name":"Asia Pacific Institute of Information Technology (APIIT SD) (Panipat)"
+    },
+    
+    {
+      "college_name":"Bannari Amman Institute Of Technology (Erode)"
+    },
+    {
+      "college_name":"CVR College Of Engineering (Hyderabad)"
+    },
+    {
+      "college_name":"Chaitanya Bharathi Institute Of Technology (Hyderabad)"
+    },
+    {
+      "college_name":"College Of Engineering, Guindy (Chennai)"
+    },
+
+    
+    {
+      "college_name":"Govt. Model Engineering College (Cochin)"
+    },
+    {
+      "college_name":"Guru Nanak Dev Engineering College (Ludhiana)"
+    },
+    {
+      "college_name":"IES College Of Technology (Bhopal)"
+    },
+    {
+      "college_name":"IIIT, Allahabad (Allahabad)"
+    },
+    {
+      "college_name":"IIIT, Hyderabad (Hyderabad)"
+    },
+    {
+      "college_name":"IIT, Bombay (Mumbai)"
+    },
+    {
+      "college_name":"IIT, Delhi (Delhi)"
+    },
+    {
+      "college_name":"IIT, Kanpur (Kanpur)"
+    },
+    {
+      "college_name":"IIT, Kharagpur (Kharagpur)"
+    },
+ 
+    {
+      "college_name":"J.B. Institute Of Technology (Dehradun)"
+    },
+
+    {
+      "college_name":"K.S.R. College Of Enginnering (Thiruchengode)"
+    },
+
+    {
+      "college_name":"Kongu Engineering College (Erode)"
+    },
+    
+    {
+      "college_name":"PSG College of Technology (Coimbatore)"
+    },
+    {
+      "college_name":"Pimpri Chinchwad College Of Engineering (Pune)"
+    },
+    {
+      "college_name":"R.M.D. Engineering College (Thiruvallur)"
+    },
+    {
+      "college_name":"R.M.K. Engineering College (Kavaripettai)"
+    },
+    {
+      "college_name":"Rajagiri School Of Engineering & Technology (Ernakulam)"
+    },
+    {
+      "college_name":"Rajarambapu Institute Of Technology (Sangli)"
+    },
+    {
+      "college_name":"Rungta College Of Engineering And Technology (Bhilai)"
+    },
+    {
+      "college_name":"S.A. Engineering College (Chennai)"
+    },
+    {
+      "college_name":"SCMS School Of Engineering & Technology (Ernakulam)"
+    },
+    {
+      "college_name":"SDM College Of Engineering & Technology (Dharwad)"
+    },
+    {
+      "college_name":"SRM Engineering College (Chennai)"
+    },
+ 
+
+    {
+      "college_name":"Sir M Visvesvaraya Institute Of Technology (Bangalore)"
+    },
+    {
+      "college_name":"Sri Sairam College of Engineering (Bangalore)"
+    },
+    {
+      "college_name":"Sri Sairam Engineering College (Chennai)"
+    },
+    {
+      "college_name":"Sri Sivasubramaniya Nadar College of Engineering (Kalavakkam)"
+    },
+    {
+      "college_name":"Symbiosis Institute Of Technology (Pune)"
+    },
+    {
+      "college_name":"Thapar University (Patiala)"
+    },
+    {
+      "college_name":"The National Institute Of Engineering (Mysore)"
+    },
+    {
+      "college_name":"The Northcap University (Gurgaon)"
+    },
+
+    {
+      "college_name":"VIT University (Vellore)"
+    },
+    {
+      "college_name":"Veltech High Tech Dr .Rangarajan Dr. Sakunthala Engineering College (Chennai)"
+    }
+  ]
